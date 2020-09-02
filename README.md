@@ -1,5 +1,5 @@
 # Math-Concepts-for-Developers-SoftUni---Exercises
-Live Exercises and Homework done for "Math Concepts for Developers" course at SoftUni (May 2020, Certificate: https://softuni.bg/certificates/details/82705/f65c701a, 105 out of 110 points)
+Live Exercises and Homework done for "Math Concepts for Developers" course at SoftUni (May 2020)
 
 The course covers the following topics (4-hour Lectures + 4-hour Exercises & Labs):
 
@@ -10,3 +10,5 @@ The course covers the following topics (4-hour Lectures + 4-hour Exercises & Lab
 5.	Probability and Combinatorics
 6.	Statistics
 7.	Hypothesis Testing
+
+Certificate: https://softuni.bg/certificates/details/82705/f65c701a (105 out of 110 points)

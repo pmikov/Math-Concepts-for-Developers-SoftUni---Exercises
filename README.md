@@ -1,5 +1,5 @@
 # Math-Concepts-for-Developers-SoftUni---Exercises
-Live Exercises and Homework done for "Math Concepts for Developers" course at Software Univesity (April - May 2020) 
+Live Exercises and Homework done for "Math Concepts for Developers" course at Software Univesity (May 2020) 
 - course 1 of 4 of "Artificial Intelligence" specialization
 
 The course covers the following topics (4-hour Lectures + 4-hour Exercises & Labs):
